@@ -4,4 +4,7 @@ hello git
 hello git
 hello git
 he master
+=======
+he hot-fix
 hot fix
+hot-fix2
